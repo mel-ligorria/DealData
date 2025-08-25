@@ -31,6 +31,6 @@ Analizar y explorar un conjunto de datos de ventas y reseñas de productos en **
 | Nicolás Allende    | [AllendeNicolas](https://github.com/AllendeNicolas) |
 | Emanuel Guaraz     | [JEmanuelG](https://github.com/JEmanuelG) |
 | Lucas Ryser        | [lucasryser6](https://github.com/lucasryser6) |
-| Juan Clavijo       | —                                        |
+| Juan Clavijo       | [juancla001](https://github.com/juancla001)                                       |
 
 
