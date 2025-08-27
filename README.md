@@ -27,7 +27,7 @@ Analizar y explorar un conjunto de datos de ventas y reseñas de productos en **
 | Melania Ligorria   | [mel-ligorria](https://github.com/mel-ligorria) |
 | Miguel Rojas       | [Migueerm](https://github.com/Migueerm)  |
 | Guadalupe Mendoza  | [Guadamendoza](https://github.com/Guadamendoza)                                        |
-| Carlos Dineri      | [Cdireni1](https://github.com/Cdireni1)  |
+| Carlos Direni      | [Cdireni1](https://github.com/Cdireni1)  |
 | Nicolás Allende    | [AllendeNicolas](https://github.com/AllendeNicolas) |
 | Emanuel Guaraz     | [JEmanuelG](https://github.com/JEmanuelG) |
 | Lucas Ryser        | [lucasryser6](https://github.com/lucasryser6) |
